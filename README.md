@@ -25,7 +25,7 @@
 
 
 ### ฟังก์ชันเสริม
-**Click!! >> [File]** <p>
+> **Click!! >> [File]** <p>
 ![file](https://user-images.githubusercontent.com/49282113/56809034-1aa85f00-685d-11e9-80fa-9f74722c5759.png)
 
 * :mag_right: [Top 5 Serach]  : หน้าต่างที่จะบอกถึงการค้นหาคำศัพท์ที่มากที่สุด 5 อันดับแรกพร้อมจำนวนครั้งที่ค้นหา <p>
@@ -38,7 +38,7 @@
 <p>
 <p>
  
-**Click!! >> [Help]**
+> **Click!! >> [Help]**
 
 ![Help](https://user-images.githubusercontent.com/49282113/56810387-6577a600-6860-11e9-96fc-c24579b1b505.png)
 
