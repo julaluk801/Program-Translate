@@ -37,13 +37,15 @@
 * [Exit] : ปิดระบบโปรแกรม
 <p>
 <p>
-**Click!! >> [Help]** <p>
+ 
+**Click!! >> [Help]**
+<p>
 ![Help](https://user-images.githubusercontent.com/49282113/56810041-8d1a3e80-685f-11e9-9d0e-bcd63085311b.png)
 
 * [Developer] : รายชื่อสมาชิกผู้จัดทำโปรแกรม<p>
-![developer](https://user-images.githubusercontent.com/49282113/56810159-c783db80-685f-11e9-9473-eacb09353460.png)
+<img src="https://user-images.githubusercontent.com/49282113/56810159-c783db80-685f-11e9-9473-eacb09353460.png" width="400">
 
-* [About..] : หน้าแสดงที่มาของตัวโปรแกรม ทั้งอ้างอิงเอกสาร และโปรแกรมที่ใช้งาน
+* [About..] : หน้าแสดงที่มาของตัวโปรแกรม ทั้งอ้างอิงเอกสาร และโปรแกรมที่ใช้งาน<p>
 
 ### รายชื่อสมาชิกกลุ่ม
 :trollface: น.ส.วชิรดา ท้าวนอก 600510575
