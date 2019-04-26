@@ -7,7 +7,7 @@
 **Program Translate** เป็นโปรเจคกลุ่มนักศึกษามหาวิทยาลัยเชียงใหม่ ชั้นปีที่ 1 ปีการศึกษา 2561 ทำขึ้นในรายวิชา 204113 [Principles of Computing] โดยตัวโปรแกรมของเรานั้นเป็นโปรแกรมที่จะเอาคำศัพท์มาจาก หนังสือ "พจนานุกรมคอมพิวเตอร์และอินเตอร์เน็ต" เพื่อแปลคำศัพท์จากภาษาอังกฤษเป็นภาษาไทยตามหนังสือที่กล่าวมาข้างต้น
 
 ### การติดตั้งโปรแกรม :file_folder:
-1. โหลดโปรแกรมไฟล์จากลิงค์ [Program Translate](https://drive.google.com/file/d/1OiG_fLLs4WIyb1eVpexjgxlRPBmPcmqj/view?usp=sharing)
+1. โหลดโปรแกรมไฟล์จากลิงค์ :link:[Program Translate](https://drive.google.com/file/d/1OiG_fLLs4WIyb1eVpexjgxlRPBmPcmqj/view?usp=sharing)
 1. แตกไฟล์ **Program Translate.winrar** และเราจะได้โฟลเดอร์ที่เป็นโฟลเดอร์ของตัวโปรแกรมมาพร้อม modual ต่างๆที่ทำให้โปรแกรมสามารถใช้งานได้<p>
 ![1](https://user-images.githubusercontent.com/49282113/56789530-495a1180-682c-11e9-934b-046a22554980.png)<p>
 
