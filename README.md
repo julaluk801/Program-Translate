@@ -66,5 +66,5 @@
 
 ### Poster :camera:
 <p align="center">
-<img src="https://user-images.githubusercontent.com/49282113/56757608-d6ff1800-67be-11e9-8961-817bb4c990af.png" width="600">
+<img src="https://user-images.githubusercontent.com/49282113/56810899-9dcbb400-6861-11e9-92af-1bb7414554ec.png" width="600">
 
