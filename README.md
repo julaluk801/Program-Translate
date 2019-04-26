@@ -46,7 +46,7 @@
 <img src="https://user-images.githubusercontent.com/49282113/56810159-c783db80-685f-11e9-9473-eacb09353460.png" width="400">
 
 * [About..] : หน้าแสดงที่มาของตัวโปรแกรม ทั้งอ้างอิงเอกสาร และโปรแกรมที่ใช้งาน
-![about](https://user-images.githubusercontent.com/49282113/56810819-6ceb7f00-6861-11e9-92af-bdef70fbfc87.png)
+<img src="https://user-images.githubusercontent.com/49282113/56810819-6ceb7f00-6861-11e9-92af-bdef70fbfc87.png" width="400">
 
 
 
