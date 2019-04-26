@@ -39,8 +39,9 @@
 <p>
  
 **Click!! >> [Help]**
-<p>
-![Help](https://user-images.githubusercontent.com/49282113/56810041-8d1a3e80-685f-11e9-9d0e-bcd63085311b.png)
+
+![Help](https://user-images.githubusercontent.com/49282113/56810387-6577a600-6860-11e9-96fc-c24579b1b505.png)
+
 
 * [Developer] : รายชื่อสมาชิกผู้จัดทำโปรแกรม<p>
 <img src="https://user-images.githubusercontent.com/49282113/56810159-c783db80-685f-11e9-9473-eacb09353460.png" width="400">
